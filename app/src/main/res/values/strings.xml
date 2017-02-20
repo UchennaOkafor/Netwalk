@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Netwalk</string>
+    <string name="game_moves_counter">"Moves: %d"</string>
+    <string name="timer_default_value">Time: 00m 00s</string>
+    <string name="moves_default_value">Moves: 0</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="save">Save</string>
+    <string name="high_score_msg">You\'ve set a new high score!</string>
+    <string name="pause_menu">Pause Menu</string>
+    <string name="play">Play</string>
+    <string name="highscore">HighScore</string>
+    <string name="highscores">Highscores</string>
+    <string name="view_scores_difficulty_msg">View by difficulty</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="rank_identifier">#</string>
+    <string name="username">Username</string>
+    <string name="moves">Moves</string>
+    <string name="time_taken">Time taken</string>
+    <string name="time">Time</string>
+    <string name="grid_solved_msg">Grid successfully solved!</string>
+    <string name="play_again_msg">Would you like to play again?</string>
+    <string name="restart">Restart</string>
+    <string name="resume">Resume</string>
+</resources>
